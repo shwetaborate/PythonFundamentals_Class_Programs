@@ -67,7 +67,5 @@ This repository documents my learning journey through Python—starting from the
 - MySQL connection
 
 ### **Regex**
-- Importing modules  
-- Standard library basics   
 
 ---
