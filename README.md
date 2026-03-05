@@ -11,8 +11,8 @@ This repository documents my learning journey through Python—starting from the
 - Printing & Inputs  
 - Variables & Data Types  
 - Typecasting  [Typecasting](./List_Tuple_Dict/Day3TypeConversion.py)
-- Comments
-  [List, Tuple, Dict](./List_Tuple_Dict)
+- Comments  
+[Link](./List_Tuple_Dict)
  
 
 ### **2️⃣ Conditionals**
@@ -31,7 +31,7 @@ This repository documents my learning journey through Python—starting from the
 - Defining and calling functions  
 - Arguments & return values  
 - Scope  
-- Lambda functions
+- Lambda functions  
   [Link](./functions)
   [Link2](./functions2)
   
@@ -41,48 +41,51 @@ This repository documents my learning journey through Python—starting from the
 - Tuples  
 - Dictionaries  
 - Sets  
-- List comprehension [List_Comprehension](./regex_listcomp/listcomp.py)
+- List comprehension [List_Comprehension](./regex_listcomp/listcomp.py)  
   [List, Tuple, Dict](./List_Tuple_Dict)
 
 ### **6️⃣ Strings**
 - String methods  
 - Slicing  
-- f-strings
+- f-strings  
   [Link1](./string_Handling)
   [Link2](./stringfunctions)
   [Link3](./stringfunctions2)
 
 ### **7️⃣ Modules & Packages**
 - Importing modules  
-- Standard library basics  
+- Standard library basics    
   [Link](./package_module)
 
 ### **8️⃣ Class**
 - Class  
-- Class Methods
+- Class Methods  
   [Link](./class_classmethods)
 
 ### **9️⃣ Error Handling**
 - Try Finally
-- Raise
+- Raise  
   [Link](./error_handling)
 
 ### **🔟 OOP Concepts**
 - Inheritance
 - Polymorphism
 - Abstraction
-- Encapsulation
+- Encapsulation   
   [Link1](./OOP1)
   [Link2](./OOP2)
   
 ### **Files**
 - Reading files  
-- Writing files
+- Writing files  
   [Link](./file_handling)
+  
 ### **SQL Connection**
-- MySQL connection
+- MySQL connection  
   [Link](./sql_conn)
 
 ### **Regex**
+- Regex Expression   
   [Link](./regex_listcomp)
----
+
+  --
